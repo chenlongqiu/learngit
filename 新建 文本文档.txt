@@ -1,13 +1,3 @@
-<<<<<<< .mine
-hello dear
-
-shanan is pig
-=======
->>>>>>> parent of cf97cce (新增1行代码)
-=======
 
 shanan is pig
 
-
-
->>>>>>> .theirs
