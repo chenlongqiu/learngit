@@ -43,6 +43,7 @@ int main(int argc, char **argv)
         a1[high] = a1[low];
     }
     a1[low] = key;
+    printf("\n");
     for(i1=0;i1<10;i1++)
     {
         printf("%d ",a1[i1]);
