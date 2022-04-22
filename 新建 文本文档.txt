@@ -1,8 +1,13 @@
-<<<<<<< HEAD
-cehnlonqiu
-
+<<<<<<< .mine
 hello dear
 
 shanan is pig
 =======
->>>>>>> parent of cf97cce (æ–°å¢1è¡Œä»£ç )
+>>>>>>> parent of cf97cce (ĞÂÔö1ĞĞ´úÂë)
+=======
+
+shanan is pig
+
+
+
+>>>>>>> .theirs
